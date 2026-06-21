@@ -494,6 +494,7 @@ custom_domains = {
         "silvesting.com",
         "simaye-salamat.com",
         "sinsamed.com",
+        "smart-boom.com",
         "snapp-food.com",
         "snapp.market",
         "snapp.site",
