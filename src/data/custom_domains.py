@@ -348,6 +348,7 @@ custom_domains = {
         "mimfarsi.com",
         "mlt.link",
         "mobilefixcompany.com",
+        "modemtak.com",
         "mohtava.cloud",
         "mojnews.com",
         "mokammelyab.com",
